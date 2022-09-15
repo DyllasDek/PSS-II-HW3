@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/C++_codes/HW3(2)/Access level/blue_level.h
+green_level.h
+D:/C++_codes/HW3(2)/Access level/green_level.h
+
+D:/C++_codes/HW3(2)/Access level/green_level.h
+yellow_level.h
+D:/C++_codes/HW3(2)/Access level/yellow_level.h
+
+D:/C++_codes/HW3(2)/Access level/no_level.h
+green_level.h
+D:/C++_codes/HW3(2)/Access level/green_level.h
+
+D:/C++_codes/HW3(2)/Access level/red_level.h
+vector
+-
+map
+-
+iostream
+-
+
+D:/C++_codes/HW3(2)/Access level/yellow_level.h
+red_level.h
+D:/C++_codes/HW3(2)/Access level/red_level.h
+
+D:/C++_codes/HW3(2)/Main_Interface.cpp
+iostream
+-
+zconf.h
+-
+Users/Table_of_users.h
+D:/C++_codes/HW3(2)/Users/Table_of_users.h
+
+D:/C++_codes/HW3(2)/Users/Table_of_users.h
+string
+-
+../Access level/red_level.h
+D:/C++_codes/HW3(2)/Access level/red_level.h
+../Access level/yellow_level.h
+D:/C++_codes/HW3(2)/Access level/yellow_level.h
+../Access level/green_level.h
+D:/C++_codes/HW3(2)/Access level/green_level.h
+../Access level/blue_level.h
+D:/C++_codes/HW3(2)/Access level/blue_level.h
+../Access level/no_level.h
+D:/C++_codes/HW3(2)/Access level/no_level.h
+user.h
+D:/C++_codes/HW3(2)/Users/user.h
+
+D:/C++_codes/HW3(2)/Users/user.h
+string
+-
+
